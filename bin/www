@@ -5,7 +5,7 @@
  */
 
 var app = require('../app');
-var debug = require('debug')('perpustakaan-sistem:server');
+var debug = require('debug')('perpustakaan-sistem-1:server');
 var http = require('http');
 
 /**
